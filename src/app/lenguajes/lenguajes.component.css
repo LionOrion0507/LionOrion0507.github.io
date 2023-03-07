@@ -1,0 +1,14 @@
+table {
+  width: 100%;
+}
+
+tr {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+}
+
+.lenguaje {
+  font-weight: bold;
+}

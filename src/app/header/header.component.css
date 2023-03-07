@@ -1,0 +1,33 @@
+table {
+  width: 100%;
+  background-color: navy;
+  color: white;
+}
+
+tr {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+td {
+  font-size: large;
+}
+
+.nombre_titulo {
+  max-width: 15%;
+}
+
+.img_container {
+  max-width: 10%;
+}
+
+img {
+  border-radius: 50%;
+  height: auto;
+  max-width: 100%;
+}
+
+ul {
+  list-style-type: none;
+}

@@ -1,0 +1,15 @@
+table {
+  width: 100%;
+}
+
+tr {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.fecha {
+  font-weight: bold;
+}
